@@ -95,11 +95,33 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	height: 1px;
 	padding: 0px;
 }
+.mainContent .section2 .sectionTitleRule2 {
+}
+.profileHeader p {
+    margin-top: 18px;
+}
+.socialNetworkNavBar {
+    padding-top: 0px;
+    padding-bottom: 9px;
+}
+.socialNetworkNavBar .socialNetworkNav img {
+}
+.profileHeader p {
+    padding-bottom: 0px;
+    padding-top: 9px;
+}
 .mainContent .section1 .section1Content {
 	font-family: ProximaNova;
 	font-size: 14px;
 	font-weight: 100;
 	color: rgba(208,207,207,1.00);
+}
+.socialNetworkNavBar .socialNetworkNav {
+    padding-right: 0px;
+    padding-left: 61px;
+}
+.socialNetworkNavBar {
+    padding-left: 100px;
 }
 .mainContent .section1 .section1Content span {
 	color: rgba(146,146,146,1.00);
@@ -174,6 +196,27 @@ footer .footerNote {
 footer .footerNote span {
 	color: rgba(181,178,178,1.00);
 	font-weight: 400;
+}
+.profilePhoto img {
+    margin-top: 16px;
+    padding-top: 0px;
+}
+body header img {
+    float: left;
+    clear: left;
+}
+body div img {
+}
+body div {
+}
+img {
+}
+body div img {
+}
+body div img {
+    margin-right: 38px;
+}
+.socialNetworkNavBar {
 }
 
 /* Media query for Mobile devices*/
