@@ -225,6 +225,9 @@ body div img {
     margin-left: 100px;
     margin-bottom: 47px;
 }
+.socialNetworkNavBar {
+    margin-left: -355px;
+}
 
 /* Media query for Mobile devices*/
 @media only screen and (min-width : -43px ) and ( max-width : 480px ){
