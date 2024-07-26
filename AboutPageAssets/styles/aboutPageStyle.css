@@ -218,6 +218,13 @@ body div img {
 }
 .socialNetworkNavBar {
 }
+.socialNetworkNav div img {
+    clear: none;
+    float: none;
+    padding-left: 0px;
+    margin-left: -139%;
+    margin-bottom: 47px;
+}
 
 /* Media query for Mobile devices*/
 @media only screen and (min-width : 285px) and (max-width : 480px) {
