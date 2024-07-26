@@ -223,8 +223,9 @@ body div img {
 @media only screen and (min-width : 285px) and (max-width : 480px) {
 /* Header */
 header {
-	width: 100%;
-	float: none;
+    width: 100%;
+    float: none;
+    padding-left: 0px;
 }
 header .profileLogo .logoPlaceholder {
 	display: inline-block;
