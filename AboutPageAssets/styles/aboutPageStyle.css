@@ -228,6 +228,14 @@ body div img {
 .socialNetworkNavBar {
     margin-left: -355px;
 }
+.socialNetworkNav div img {
+}
+.socialNetworkNavBar .socialNetworkNav {
+}
+.socialNetworkNavBar {
+    margin-left: -632px;
+    padding-left: 0px;
+}
 
 /* Media query for Mobile devices*/
 @media only screen and (min-width : -43px ) and ( max-width : 480px ){
